@@ -76,3 +76,8 @@ NVIDIA GeForce GTX 1060 | 4372 GFLOPS | 6 GB | Dual | 25 ms | 100 ms | - |
 테스트 시킬 이미지는 "\src\Alturos.Yolo.TestUI\bin\Debug\Images"에 넣어 구분 시킬 수 있음 
 최대 2개의 하위 폴더에 있는 이미지를 찾아 리스트로 나타남
 ```
+
+### Yolo 학습을 위한 코랩
+,,,
+https://colab.research.google.com/drive/1p5fxSbRIl5HzVNWBBBDCfeMVtR_CDghn?usp=sharing
+,,,
