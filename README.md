@@ -78,6 +78,6 @@ NVIDIA GeForce GTX 1060 | 4372 GFLOPS | 6 GB | Dual | 25 ms | 100 ms | - |
 ```
 
 ### Yolo 학습을 위한 코랩
-,,,
+```
 https://colab.research.google.com/drive/1p5fxSbRIl5HzVNWBBBDCfeMVtR_CDghn?usp=sharing
-,,,
+```
